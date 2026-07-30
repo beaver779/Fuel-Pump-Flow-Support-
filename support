@@ -1,0 +1,20 @@
+
+Fuel Pump Flow – Support
+
+For questions, bug reports, or feedback, email us at beaver779@gmail.com. We typically respond within 1–2 business days.
+
+⸻
+
+Frequently Asked Questions
+
+What do I enter when the timer stops?
+Enter the total gallon number shown on the dispenser, exactly as displayed. The app subtracts your start offset automatically to calculate the net gallons and GPM.
+
+Why does the draw number start at 1 for each site?
+Draw numbers reset per site so each location has its own clean sequence. Draws with no site assigned share their own count starting at 1.
+
+How many draws can I store?
+Up to 100 draws are stored locally on your device. When draw #101 is saved, the oldest draw is automatically removed to keep the total at 100.
+
+Is any data sent to the internet?
+No. All data is stored locally on your device. The app does not require an account, internet connection, or any external service.
